@@ -1,5 +1,6 @@
-1;Rafaela Aimi;10.0;4.5;3.0
-2;Benício Akira;5.0;8.0;7.0
-3;Marcel Rodrigo;10.0;8.0;
-4;Vladimir Junior;7.0,7.0;5
-5;Marcel Cozono;5.0;5.0;8.0
+codigo_aluno,nome_aluno,n1,n2,sub
+1,Rafaela Aimi,10.0,4.5,3.0
+2,Benício Akira,5.0,8.0,7.0
+3,Marcel Rodrigo,10.0,8.0,0.0
+4,Vladimir Junior,7.0,7.0,5
+5,Marcel Cozono,5.0,5.0,8.0
